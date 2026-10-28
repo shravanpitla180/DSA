@@ -38,7 +38,7 @@ def selection_sort(arr):
 arr= [4, 2, 5, 3, 1]
 print("Selection_sort:",selection_sort(arr))
 
-# 2.Insertion sort
+# 3.Insertion sort
 '''
 3.Insertion sort:
 -->Take one element at a time and insert it into its correct position in the already sorted portion of array.'''
