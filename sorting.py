@@ -95,7 +95,7 @@ print("merge_sort:",merge_sort(arr))
 
 # Quick sort:-
 '''
-4.Quick sort
+5.Quick sort
 -->It is a sorting algorithm that chooses a value called a pivot, partitions the other values into those smaller and larger than the pivot,
 then recursively sorts each smaller and larger elements. '''
 
